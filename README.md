@@ -30,7 +30,3 @@ This dataset serves as a critical resource for understanding how city services a
 ### Conclusion
 
 This project demonstrated the power of data science and machine learning in solving real-world problems. It highlighted the iterative process of refining models, analyzing results, and extracting actionable insights. By improving prediction accuracy and uncovering hidden patterns, this analysis provides valuable strategies for optimizing public services and resource allocation in cities like Washington, D.C.
-
----
-
-Let me know if you’d like further adjustments! 🚀
